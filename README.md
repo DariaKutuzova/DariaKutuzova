@@ -1,4 +1,4 @@
-### Hey! My name is Daria 👋
+# Hey! My name is Daria 👋
 
 ## 🌱I study in Yandex.Praktikum at the faculty of web development
 
