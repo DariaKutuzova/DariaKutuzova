@@ -1,6 +1,6 @@
 # Hey! My name is Daria 👋
 
-## 🌱I study in Yandex.Praktikum at the faculty of web development
+## Frontend Developer
 
 ## Languages and tools
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
